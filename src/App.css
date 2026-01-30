@@ -1,0 +1,22 @@
+.section1{
+    background-image: url(./assets/img2.png);
+    background-repeat: no-repeat;
+    width: 1,353px;
+    height: 600px;
+    border-radius: 60px;
+    margin-left: 50px 50px 0 0;
+}
+
+body{
+    padding: 0 43px;
+}
+.btn2{
+    width: 209px;
+    height: 22px;
+    
+    color: black;
+   flex: end;
+   margin-top: 500px;
+   margin-left: 300px;
+   gap: 30px;
+}

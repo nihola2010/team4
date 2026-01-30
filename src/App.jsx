@@ -11,8 +11,12 @@ function App() {
   return (
     <>
       <Header/>
-
-
+    <div className='section1'>
+     <button className='btn2'>Перейти в каталог</button>
+     <button className='btn3'>Рассчитать стоимость</button>
+      
+    </div>
+    
       
       {/* section.jsx */}
 
